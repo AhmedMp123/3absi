@@ -9,5 +9,5 @@ while (x%10!=0){
     x/=10;
     count++;
 }
-printf("the answer is :- %d",count);
+printf("the answer is                 :- %d",count);
 }
