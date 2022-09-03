@@ -1,6 +1,6 @@
 #include <Stdio.h>
 int main (void){
-    int x;
+    int x,i;
    int count=0;
 
 printf("please eneter a number\n");
@@ -10,4 +10,8 @@ while (x%10!=0){
     count++;
 }
 printf("the answer is                 :- %d",count);
+for(i=5:i>0;i++){
+    printf("kosmk \n");
+}
+
 }
